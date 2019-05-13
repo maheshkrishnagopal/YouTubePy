@@ -14,6 +14,7 @@ this snippet has a dependencies of Chrome Driver of Selenium.
 The program is completely to explore the knowledge and not to monetize or being commercially used.
 
 Author: Maheshkrishna A G
+Email: maheshkrishnagopal@gmail.com
 """
 
 import time
