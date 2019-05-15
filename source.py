@@ -11,10 +11,11 @@ expanded in revealing the possibilities further.
 This program is not a proper module to be deployed, which will require alot of updates to be a proper module. Moreover,
 this snippet has a dependencies of Chrome Driver of Selenium.
 
-The program is completely to explore the knowledge and not to monetize or being commercially used.
+NOTE: The program is completely to explore the knowledge and not to monetize or being commercially used.
 
 Author: Maheshkrishna A G
 Email: maheshkrishnagopal@gmail.com
+Date: 15-Apr-2019
 """
 
 import time
