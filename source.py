@@ -37,7 +37,7 @@ def init_chrome_driver(driver_path):
     cwd = os.getcwd()
     window_size = "1920,1080"
     chrome_options = Options()
-    # chrome_options.add_argument("--headless")
+    chrome_options.add_argument("--headless")
     chrome_options.add_argument("--window-size=%s" % window_size)
     chrome_options.add_argument("download.default_directory=" + cwd)
     chrome_options.add_argument('--disable-gpu')
