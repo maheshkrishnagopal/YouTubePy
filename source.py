@@ -1,5 +1,5 @@
 """
-YouTube Views Booster v.1.0.0
+YouTubePy v.1.0.0 (Beta)
 -----------------------------
 
 Python implementation for increasing the YouTube video's views with the help of the video's URL.
