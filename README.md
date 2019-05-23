@@ -1,5 +1,5 @@
 <p align="center"> <img src="https://github.com/Maheshkrishna/YouTubePy/blob/master/images/New_YT_Logo.png"/> </p>
-<h1 align="center"> YouTubePy v.1.0.0 (Beta) </h1>
+<h1 align="center"> YouTubePy v0.0.1 (Beta) </h1>
 
 YouTubePy is a minor library that leverages Selenium Web Drivers and perform operations on the video streaming website ![www.youtube.com].
 
