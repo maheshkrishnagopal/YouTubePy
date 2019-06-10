@@ -11,8 +11,11 @@ Selenium and Multiprocessing.
 YouTubePy is being developed with standard coding style of Python.
 
 <h2> Features </h2>
-1. Increase YouTube video views.
-2. Retrieve video information. [WIP]
+1. Increase YouTube video views. </n>
+2. Retrieve video information. [WIP] </n>
+
+<h3> License </h3>
+This project s licensed under MIT License. Copyright (c) 2019 Maheshkrishna A G
 
 
 
