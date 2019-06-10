@@ -14,7 +14,7 @@ YouTubePy is being developed with standard coding style of Python.
 1. Increase YouTube video views. </n>
 2. Retrieve video information. [WIP] </n>
 
-<h3> License </h3>
+<h2> License </h2>
 This project s licensed under MIT License. Copyright (c) 2019 Maheshkrishna A G
 
 
