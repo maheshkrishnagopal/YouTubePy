@@ -26,7 +26,7 @@ from selenium import webdriver
 from selenium.common.exceptions import *
 from selenium.webdriver.chrome.options import Options
 from multiprocessing import Pool
-import pymongo
+
 
 def init_chrome_driver(driver_path, yt_url):
     """
