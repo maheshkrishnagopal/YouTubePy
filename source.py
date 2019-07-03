@@ -35,7 +35,6 @@ def init_chrome_driver(driver_path, yt_url):
     video which will increase the view.
     :param driver_path: directory path where the chromedriver.exe is residing.
     :param yt_url: YouTube video's URL
-    
     :return: None
     """
     chrome_path = 'PATH_TO_CHROME.EXE'
@@ -78,3 +77,5 @@ if __name__ == "__main__":
         driver_path.append(driver)
     print("message_url =", driver_path)
     output = p.map(init_chrome_driver, zip(driver_path, url_passing))
+    
+    
