@@ -77,5 +77,3 @@ if __name__ == "__main__":
         driver_path.append(driver)
     print("message_url =", driver_path)
     output = p.map(init_chrome_driver, zip(driver_path, url_passing))
-    
-    
