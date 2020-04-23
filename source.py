@@ -2,8 +2,6 @@
 YouTubePy v.1.0.0 (Beta)
 -----------------------------
 
-
-
 Python implementation for increasing the YouTube video's views with the help of the video's URL.
 
 Amateur YouTubers are really struggling in getting the views for their videos in the video streaming app. To get rid of
